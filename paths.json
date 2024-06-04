@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-edge-getting-started-site/:/",
-    "/content/aem-edge-getting-started-site/configuration:/.helix/config.json"
+    "/content/aem-universal-editor-test/:/",
+    "/content/aem-universal-editor-test/configuration:/.helix/config.json"
   ]
 }

@@ -10,6 +10,10 @@
  * governing permissions and limitations under the License.
  */
 
+body {
+  background: red !important;
+}
+
 :root {
   /* colors */
   --link-color: #035fe6;
